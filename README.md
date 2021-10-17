@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ubaidi5
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @Ubaid_Hussain
+- 👀 I’m a MERN stack developer
 - 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
