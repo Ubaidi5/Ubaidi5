@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ubaid_Hussain
 - 👀 I’m a MERN stack developer
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently working as an Associate Software Engineer in eForte solution
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 https://madebyubaid.web.app
 
 <!---
 Ubaidi5/Ubaidi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
