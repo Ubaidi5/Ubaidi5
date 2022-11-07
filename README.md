@@ -1,6 +1,9 @@
-<a href="https://app.daily.dev/ubaidhussain">
+<!-- <a href="https://app.daily.dev/ubaidhussain">
   <img src="https://api.daily.dev/devcards/8090131720814849bebe46dafdd80092.png?r=5jh" width="400" alt="Ubaid Hussain's Dev Card"/>
 </a>
+--->
+
+<h1 style="font-size: 24px; color: #6338fa; font-style: italic">Founder at Checkedin.club</h1>
 
 - 👋 Hi, I’m @Ubaid_Hussain
 - 👀 I’m a MERN stack developer
