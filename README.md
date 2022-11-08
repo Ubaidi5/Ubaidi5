@@ -3,7 +3,7 @@
 </a>
 --->
 
-<h1 style="font-size: 24px; color: #6338fa; font-style: italic">Founder at Checkedin.club</h1>
+# Founder at Checkedin.club
 
 - 👋 Hi, I’m @Ubaid_Hussain
 - 👀 I’m a MERN stack developer
