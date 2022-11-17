@@ -3,7 +3,7 @@
 </a>
 --->
 
-# Founder at Checkedin.club
+# Founder at Checkeden
 
 - 👋 Hi, I’m @Ubaid_Hussain
 - 👀 I’m a MERN stack developer
