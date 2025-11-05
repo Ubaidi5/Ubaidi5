@@ -3,7 +3,7 @@
 </a>
 --->
 
-# Founder at Checkeden
+# Senior Software Engineer
 
 - 👋 Hi, I’m @Ubaid_Hussain
 - 👀 I’m a MERN stack developer
