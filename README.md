@@ -1,17 +1,19 @@
-<!-- <a href="https://app.daily.dev/ubaidhussain">
-  <img src="https://api.daily.dev/devcards/8090131720814849bebe46dafdd80092.png?r=5jh" width="400" alt="Ubaid Hussain's Dev Card"/>
-</a>
---->
+# Ubaid Hussain
 
-# Senior Software Engineer
+Senior full-stack engineer. I build the part of your product people remember.
 
-- 👋 Hi, I’m @Ubaid_Hussain
-- 👀 I’m a MERN stack developer
-- 🌱 I’m currently working as an Associate Software Engineer in eForte solution
-- 💞️ I’m looking to collaborate on ...
-- 📫 https://ubaidhussain.me
+I've spent 6+ years shipping production web apps with **Next.js, React and TypeScript**:
+data-heavy dashboards, SaaS products, and apps on the Shopify and Wix marketplaces.
+These days I ship faster with my own AI agent workflows (custom skills and an orchestrator).
 
-<!---
-Ubaidi5/Ubaidi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I work on
+- **Dashboards & SaaS frontends**: built the ZeroSlip dashboard end to end
+- **Marketplace apps**: Shopify and Wix apps published under [KarachiSol](https://karachisol.com)
+- **Web platforms**: full-time at InsuranceMarket.ae as part of the team that moved the site to Next.js
+- **AI engineering**: agent orchestration and reusable skills for building and fixing code
+
+### Stack
+Next.js · React · TypeScript · Tailwind CSS · Node.js · MongoDB · Supabase · Vercel
+
+### Find me
+[ubaidhussain.me](https://ubaidhussain.me) · [LinkedIn](https://linkedin.com/in/YOUR-URL) · [X](https://x.com/ubaidnext)
